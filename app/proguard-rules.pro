@@ -6,5 +6,4 @@
 }
 
 # Keep native-loader class names
--keep class com.app.whisper.native.** { *; }
-
+-keep class com.app.whisper.nativelib.** { *; }
